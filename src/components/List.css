@@ -1,0 +1,26 @@
+.listArea{
+    width: 500px;
+    margin: 0 auto;
+}
+input{
+    box-sizing: border-box;
+    margin-top: 10px;
+    height: 30px;
+    line-height: 25px;
+    width: 100%;
+}
+ul, li{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.list{
+    width: 100%;
+}
+.list li{
+    padding: 15px 20px;
+    background-color: #f8f8f8;
+    border-bottom: solid 1px #f1f1f1;
+    display: flex;
+    justify-content: space-between;
+}
